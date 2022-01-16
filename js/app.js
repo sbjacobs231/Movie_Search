@@ -1,6 +1,6 @@
 $(function() {
 	// API URL
-	var omdbapi = 'http://www.omdbapi.com/?apikey=6869270f';
+	var omdbapi = 'http://www.omdbapi.com/?apikey=ae06bd82';
 	// Track Movie for Details page and search
 	var movieID = '';
 	// Hide Details page until movie is clicked
